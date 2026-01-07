@@ -11,7 +11,7 @@ int main() {
 	scanf("%d",y);
 
 	sq = (x + y)*(x + y);
-	printf("Hello richa this is your answer:- %d\n",sq);
+	printf("Hello here,is your answer:- %d\n",sq);
 	getch();
 	return 0;
 }
