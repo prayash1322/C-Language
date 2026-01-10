@@ -3,7 +3,7 @@
 int main()
 {
     int num, first, end;
-    printf("Enter any number: ");
+    printf("Enter any number you want: ");
     scanf("%d", &num);
     end = num % 10;
 
